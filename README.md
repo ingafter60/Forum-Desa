@@ -27,6 +27,10 @@
    > - https://github.com/ingafter60/Forum-Desa
    > - git push -u origin master
 
+   #### 1.3 Create django app and hellow world
 
+   > - django-admin startapp forum
+   > - creaed hellow world
+   > - git commit -m "2. Creating django app and hello world"
 
 
